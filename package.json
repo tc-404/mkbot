@@ -1,7 +1,7 @@
 {
   "name": "napcat-plugin-mkbot",
   "plugin": "MK",
-  "version": "2.1.1.alpha.2",
+  "version": "2.1.1",
   "type": "module",
   "main": "index.mjs",
   "description": "MK - 综合娱乐插件",
